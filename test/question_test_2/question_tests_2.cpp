@@ -6,7 +6,8 @@ TEST_CASE("Verify Test Configuration", "verification") {
 	REQUIRE(true == true);
 }
 
-TEST_CASE("test")
-{
+TEST_CASE("test roll_die function") {
+	
+
 	REQUIRE(test_config() == true);
 }
